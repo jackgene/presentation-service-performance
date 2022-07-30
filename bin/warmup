@@ -1,0 +1,7 @@
+swift build -c release
+
+.build/release/PresentationServicePerformance run \
+    --cycles 1 \
+    --disable-cutoff true \
+    --min-size 16384 --max-size 16384 \
+    /tmp/warmup.json

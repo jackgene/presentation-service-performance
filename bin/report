@@ -1,0 +1,3 @@
+swift build -c release
+
+.build/release/PresentationServicePerformance render out/run.json out/report.svg

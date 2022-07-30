@@ -1,0 +1,23 @@
+RUNS=$1
+LABEL=$2
+
+swift build -c release
+
+echo Warm up run...
+.build/release/PresentationServicePerformance run \
+    --cycles 1 \
+    --disable-cutoff true \
+    --min-size 2048 --max-size 2048 \
+    /tmp/warmup.json
+for i in $(seq ${RUNS}); do
+    echo Run ${i} - `date`...
+    .build/release/PresentationServicePerformance run \
+        --cycles 1 \
+        --disable-cutoff true \
+        --min-size 2048 --max-size 2097152 --smoothness 1 \
+        --label ${LABEL} \
+        out/run.json
+    sleep 180
+done
+
+.build/release/PresentationServicePerformance render out/run.json out/report.svg

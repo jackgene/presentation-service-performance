@@ -1,0 +1,69 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1280.0px" height="480.0px" viewBox="0.0 0.0 1280.0 480.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <path d="M 0 0 L 0 480 L 1280 480 L 1280 0 z" fill="#FFFFFF" fill-opacity="1.0" stroke="none"/>
+  <text x="50" y="468.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">Average per-element processing time over input size (bands: min, mean, mean + 2stddev)</text>
+  <a xlink:href="https://github.com/apple/swift-collections-benchmark"><text x="1107" y="468.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">swift-collections-benchmark</text></a>
+  <path d="M 50 9 L 50 441" fill="none" stroke-width="0.75" stroke="#000000" stroke-opacity="0.49804" stroke-linecap="butt" stroke-linejoin="round"/>
+  <text x="44.5" y="453.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">2k</text>
+  <path d="M 168 9 L 168 441" fill="none" stroke-width="0.75" stroke="#000000" stroke-opacity="0.49804" stroke-linecap="butt" stroke-linejoin="round"/>
+  <text x="162.5" y="453.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">4k</text>
+  <path d="M 286 9 L 286 441" fill="none" stroke-width="0.75" stroke="#000000" stroke-opacity="0.49804" stroke-linecap="butt" stroke-linejoin="round"/>
+  <text x="280.5" y="453.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">8k</text>
+  <path d="M 404 9 L 404 441" fill="none" stroke-width="0.75" stroke="#000000" stroke-opacity="0.49804" stroke-linecap="butt" stroke-linejoin="round"/>
+  <text x="395.5" y="453.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">16k</text>
+  <path d="M 522 9 L 522 441" fill="none" stroke-width="0.75" stroke="#000000" stroke-opacity="0.49804" stroke-linecap="butt" stroke-linejoin="round"/>
+  <text x="513.5" y="453.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">32k</text>
+  <path d="M 640 9 L 640 441" fill="none" stroke-width="0.75" stroke="#000000" stroke-opacity="0.49804" stroke-linecap="butt" stroke-linejoin="round"/>
+  <text x="631.5" y="453.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">64k</text>
+  <path d="M 758 9 L 758 441" fill="none" stroke-width="0.75" stroke="#000000" stroke-opacity="0.49804" stroke-linecap="butt" stroke-linejoin="round"/>
+  <text x="747" y="453.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">128k</text>
+  <path d="M 876 9 L 876 441" fill="none" stroke-width="0.75" stroke="#000000" stroke-opacity="0.49804" stroke-linecap="butt" stroke-linejoin="round"/>
+  <text x="865" y="453.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">256k</text>
+  <path d="M 994 9 L 994 441" fill="none" stroke-width="0.75" stroke="#000000" stroke-opacity="0.49804" stroke-linecap="butt" stroke-linejoin="round"/>
+  <text x="983" y="453.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">512k</text>
+  <path d="M 1112 9 L 1112 441" fill="none" stroke-width="0.75" stroke="#000000" stroke-opacity="0.49804" stroke-linecap="butt" stroke-linejoin="round"/>
+  <text x="1105" y="453.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">1M</text>
+  <path d="M 1230 9 L 1230 441" fill="none" stroke-width="0.75" stroke="#000000" stroke-opacity="0.49804" stroke-linecap="butt" stroke-linejoin="round"/>
+  <text x="1223" y="453.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">2M</text>
+  <path d="M 50 441 L 1230 441" fill="none" stroke-width="0.75" stroke="#000000" stroke-opacity="0.49804" stroke-linecap="butt" stroke-linejoin="round"/>
+  <text x="21" y="442.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">10 µs</text>
+  <text x="1236" y="442.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">10 µs</text>
+  <path d="M 50 225 L 1230 225" fill="none" stroke-width="0.75" stroke="#000000" stroke-opacity="0.49804" stroke-linecap="butt" stroke-linejoin="round"/>
+  <text x="15" y="226.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">100 µs</text>
+  <text x="1236" y="226.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">100 µs</text>
+  <path d="M 50 9 L 1230 9" fill="none" stroke-width="0.75" stroke="#000000" stroke-opacity="0.49804" stroke-linecap="butt" stroke-linejoin="round"/>
+  <text x="24" y="10.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">1 ms</text>
+  <text x="1236" y="10.7" font-family="Helvetica" font-size="10" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">1 ms</text>
+  <path d="M 50 375.98 L 1230 375.98" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.25882" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="6 3" stroke-dashoffset="0"/>
+  <path d="M 50 310.96 L 1230 310.96" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.25882" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="6 3" stroke-dashoffset="0"/>
+  <path d="M 50 245.93 L 1230 245.93" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.25882" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="6 3" stroke-dashoffset="0"/>
+  <path d="M 50 180.91 L 1230 180.91" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.25882" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="6 3" stroke-dashoffset="0"/>
+  <path d="M 50 115.89 L 1230 115.89" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.25882" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="6 3" stroke-dashoffset="0"/>
+  <path d="M 50 50.865 L 1230 50.865" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.25882" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="6 3" stroke-dashoffset="0"/>
+  <path d="M 74 33 L 74 105 L 471 105 L 471 33 z" fill="#FFFFFF" fill-opacity="1.0" stroke="none"/>
+  <clipPath id="clip-0">
+    <path d="M 50 9 L 50 441 L 1230 441 L 1230 9 z"/>
+  </clipPath>
+  <g clip-path="url(#clip-0)">
+    <path d="M 50 100.41L 168 160.31L 286 221.3L 404 268.64L 522 312.28L 640 340.78L 758 380.03L 876 391.23L 994 390.82L 1112 399.19L 1112 400.64L 994 395.33L 876 394.07L 758 383.65L 640 342.69L 522 320.64L 404 276.14L 286 225.34L 168 165.45L 50 101.92" fill="#28CD41" fill-opacity="0.30196078431372547" stroke="none"/>
+    <path d="M 50 100.98L 168 166.18L 286 216.08L 404 263.11L 522 304.6L 640 329.62L 758 369.08L 876 379.52L 994 379.19L 1112 375.17L 1230 380.08L 1230 391.52L 1112 392.44L 994 390.41L 876 384.32L 758 379.81L 640 335.53L 522 309.49L 404 270.63L 286 227.19L 168 171.31L 50 109.05" fill="#007AFF" fill-opacity="0.30196078431372547" stroke="none"/>
+    <path d="M 50 125.37L 168 171.49L 286 228.94L 404 270.02L 522 303.25L 640 336.54L 758 362.9L 876 374.83L 994 378.27L 1112 380.37L 1112 380.37L 994 378.27L 876 374.83L 758 362.9L 640 336.54L 522 303.25L 404 270.02L 286 228.94L 168 171.49L 50 125.37" fill="#FF3B30" fill-opacity="0.30196078431372547" stroke="none"/>
+    <path d="M 50 101.38L 168 164.02L 286 224.23L 404 274.4L 522 317.92L 640 342.07L 758 382.35L 876 393.02L 994 393.88L 1112 400.19" fill="none" stroke-width="4" stroke="#28CD41" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 50 105.81L 168 169.37L 286 223.71L 404 268.47L 522 307.68L 640 333.56L 758 375.59L 876 382.51L 994 386.65L 1112 387.33L 1230 386.74" fill="none" stroke-width="4" stroke="#007AFF" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 50 125.37L 168 171.49L 286 228.94L 404 270.02L 522 303.25L 640 336.54L 758 362.9L 876 374.83L 994 378.27L 1112 380.37" fill="none" stroke-width="4" stroke="#FF3B30" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 50 101.38L 168 164.02L 286 224.23L 404 274.4L 522 317.92L 640 342.07L 758 382.35L 876 393.02L 994 393.88L 1112 400.19" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 50 105.81L 168 169.37L 286 223.71L 404 268.47L 522 307.68L 640 333.56L 758 375.59L 876 382.51L 994 386.65L 1112 387.33L 1230 386.74" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 50 125.37L 168 171.49L 286 228.94L 404 270.02L 522 303.25L 640 336.54L 758 362.9L 876 374.83L 994 378.27L 1112 380.37" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M 74 33 L 74 105 L 471 105 L 471 33 z" fill="#FFFFFF" fill-opacity="0.7019607843137254" stroke-width="0.5" stroke="#000000" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 88 52 L 108 52" fill="none" stroke-width="4" stroke="#FF3B30" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 88 52 L 108 52" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="119" y="56.17" font-family="Menlo" font-size="12" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">Go∶ Post Chat Event and Receive Poll Results</text>
+  <path d="M 88 69 L 108 69" fill="none" stroke-width="4" stroke="#007AFF" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 88 69 L 108 69" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="119" y="73.17" font-family="Menlo" font-size="12" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">Scala∶ Post Chat Event and Receive Poll Results</text>
+  <path d="M 88 86 L 108 86" fill="none" stroke-width="4" stroke="#28CD41" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 88 86 L 108 86" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="119" y="90.17" font-family="Menlo" font-size="12" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">Swift∶ Post Chat Event and Receive Poll Results</text>
+  <path d="M 50 9 L 50 441 L 1230 441 L 1230 9 z" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
