@@ -40,22 +40,25 @@
   <path d="M 50 180.91 L 1230 180.91" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.25882" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="6 3" stroke-dashoffset="0"/>
   <path d="M 50 115.89 L 1230 115.89" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.25882" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="6 3" stroke-dashoffset="0"/>
   <path d="M 50 50.865 L 1230 50.865" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.25882" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="6 3" stroke-dashoffset="0"/>
-  <path d="M 74 33 L 74 105 L 471 105 L 471 33 z" fill="#FFFFFF" fill-opacity="1.0" stroke="none"/>
+  <path d="M 74 33 L 74 122 L 529 122 L 529 33 z" fill="#FFFFFF" fill-opacity="1.0" stroke="none"/>
   <clipPath id="clip-0">
     <path d="M 50 9 L 50 441 L 1230 441 L 1230 9 z"/>
   </clipPath>
   <g clip-path="url(#clip-0)">
+    <path d="M 50 112.7L 168 169.88L 286 219.06L 404 274.33L 522 320.71L 640 354.96L 758 368.11L 876 383.24L 994 388.83L 1112 384.53L 1230 391.66L 1230 396.71L 1112 401.48L 994 399.08L 876 385.7L 758 373.25L 640 355.41L 522 324.65L 404 284.87L 286 231.31L 168 174.15L 50 114.47" fill="#FFCC00" fill-opacity="0.30196078431372547" stroke="none"/>
     <path d="M 50 152.9L 168 213.73L 286 266.6L 404 310.91L 522 344.64L 640 365.39L 758 383.92L 876 395.39L 876 395.39L 758 383.92L 640 365.39L 522 344.64L 404 310.91L 286 266.6L 168 213.73L 50 152.9" fill="#28CD41" fill-opacity="0.30196078431372547" stroke="none"/>
     <path d="M 50 111.82L 168 161.42L 286 221.44L 404 277.13L 522 315.35L 640 350.53L 758 365.09L 876 383.95L 994 389.61L 1112 387.43L 1230 389.04L 1230 395.12L 1112 396.68L 994 396.33L 876 389.7L 758 376.02L 640 352.12L 522 325.51L 404 283.81L 286 234.05L 168 178.16L 50 117.04" fill="#007AFF" fill-opacity="0.30196078431372547" stroke="none"/>
     <path d="M 50 112.59L 168 171.17L 286 235.37L 404 286.18L 522 324.52L 640 352.02L 758 367.68L 876 379.62L 876 379.62L 758 367.68L 640 352.02L 522 324.52L 404 286.18L 286 235.37L 168 171.17L 50 112.59" fill="#FF3B30" fill-opacity="0.30196078431372547" stroke="none"/>
+    <path d="M 50 114L 168 173.02L 286 227.95L 404 282L 522 323.61L 640 355.29L 758 371.88L 876 385.05L 994 396.29L 1112 396.75L 1230 395.37" fill="none" stroke-width="4" stroke="#FFCC00" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 50 152.9L 168 213.73L 286 266.6L 404 310.91L 522 344.64L 640 365.39L 758 383.92L 876 395.39" fill="none" stroke-width="4" stroke="#28CD41" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 50 115.15L 168 172.62L 286 230.54L 404 281.67L 522 322.11L 640 351.63L 758 372.64L 876 387.59L 994 394.53L 1112 394.25L 1230 392.85" fill="none" stroke-width="4" stroke="#007AFF" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 50 112.59L 168 171.17L 286 235.37L 404 286.18L 522 324.52L 640 352.02L 758 367.68L 876 379.62" fill="none" stroke-width="4" stroke="#FF3B30" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 50 114L 168 173.02L 286 227.95L 404 282L 522 323.61L 640 355.29L 758 371.88L 876 385.05L 994 396.29L 1112 396.75L 1230 395.37" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 50 152.9L 168 213.73L 286 266.6L 404 310.91L 522 344.64L 640 365.39L 758 383.92L 876 395.39" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 50 115.15L 168 172.62L 286 230.54L 404 281.67L 522 322.11L 640 351.63L 758 372.64L 876 387.59L 994 394.53L 1112 394.25L 1230 392.85" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 50 112.59L 168 171.17L 286 235.37L 404 286.18L 522 324.52L 640 352.02L 758 367.68L 876 379.62" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-  <path d="M 74 33 L 74 105 L 471 105 L 471 33 z" fill="#FFFFFF" fill-opacity="0.7019607843137254" stroke-width="0.5" stroke="#000000" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 74 33 L 74 122 L 529 122 L 529 33 z" fill="#FFFFFF" fill-opacity="0.7019607843137254" stroke-width="0.5" stroke="#000000" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 88 52 L 108 52" fill="none" stroke-width="4" stroke="#FF3B30" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 88 52 L 108 52" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
   <text x="119" y="56.17" font-family="Menlo" font-size="12" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">Go∶ Post Chat Event and Receive Poll Results</text>
@@ -65,5 +68,8 @@
   <path d="M 88 86 L 108 86" fill="none" stroke-width="4" stroke="#28CD41" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 88 86 L 108 86" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
   <text x="119" y="90.17" font-family="Menlo" font-size="12" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">Swift∶ Post Chat Event and Receive Poll Results</text>
+  <path d="M 88 103 L 108 103" fill="none" stroke-width="4" stroke="#FFCC00" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 88 103 L 108 103" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="119" y="107.17" font-family="Menlo" font-size="12" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">Scala-GraalVM∶ Post Chat Event and Receive Poll Results</text>
   <path d="M 50 9 L 50 441 L 1230 441 L 1230 9 z" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
