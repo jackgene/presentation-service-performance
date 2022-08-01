@@ -20,4 +20,4 @@ for i in $(seq ${RUNS}); do
     sleep 180
 done
 
-.build/release/PresentationServicePerformance render out/run.json out/report.svg
+.build/release/PresentationServicePerformance render out/run.json out/chart.svg
