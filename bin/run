@@ -10,7 +10,7 @@ echo Warm up run...
     --min-size 2048 --max-size 2048 \
     /tmp/warmup.json
 for i in $(seq ${RUNS}); do
-    echo Run ${i} - `date`...
+    echo "\nRun ${i} - `date`..."
     .build/release/PresentationServicePerformance run \
         --cycles 1 \
         --disable-cutoff true \
