@@ -40,22 +40,25 @@
   <path d="M 50 180.91 L 1230 180.91" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.25882" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="6 3" stroke-dashoffset="0"/>
   <path d="M 50 115.89 L 1230 115.89" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.25882" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="6 3" stroke-dashoffset="0"/>
   <path d="M 50 50.865 L 1230 50.865" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.25882" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="6 3" stroke-dashoffset="0"/>
-  <path d="M 74 33 L 74 105 L 471 105 L 471 33 z" fill="#FFFFFF" fill-opacity="1.0" stroke="none"/>
+  <path d="M 74 33 L 74 122 L 529 122 L 529 33 z" fill="#FFFFFF" fill-opacity="1.0" stroke="none"/>
   <clipPath id="clip-0">
     <path d="M 50 9 L 50 441 L 1230 441 L 1230 9 z"/>
   </clipPath>
   <g clip-path="url(#clip-0)">
-    <path d="M 50 135.4L 168 198.33L 286 255.33L 404 307.35L 522 347.24L 640 368.35L 758 380.65L 876 387.81L 876 387.81L 758 380.65L 640 368.35L 522 347.24L 404 307.35L 286 255.33L 168 198.33L 50 135.4" fill="#28CD41" fill-opacity="0.30196078431372547" stroke="none"/>
+    <path d="M 50 115.12L 168 179.29L 286 230.19L 404 279.44L 522 320.54L 640 353.8L 758 351.29L 876 379.43L 994 385.83L 1112 387.3L 1230 387.37L 1230 393.2L 1112 390.32L 994 388.8L 876 383.9L 758 375.19L 640 357.46L 522 323.56L 404 288.45L 286 234.06L 168 181.56L 50 124.24" fill="#FFCC00" fill-opacity="0.30196078431372547" stroke="none"/>
+    <path d="M 50 123.97L 168 187.06L 286 234.57L 404 278.63L 522 333.14L 640 353.7L 758 367.67L 876 384.06L 994 390.84L 1112 395.92L 1230 392.45L 1230 395.63L 1112 399.62L 994 397.47L 876 388.09L 758 383.4L 640 364.91L 522 338.36L 404 297.27L 286 244.16L 168 191.32L 50 133.59" fill="#28CD41" fill-opacity="0.30196078431372547" stroke="none"/>
     <path d="M 50 126.78L 168 183.75L 286 232.57L 404 283.46L 522 315.05L 640 343.01L 758 365.14L 876 384.27L 994 392.85L 1112 383.78L 1230 380.83L 1230 394.04L 1112 399.02L 994 394.18L 876 388.33L 758 379.34L 640 358.09L 522 336.14L 404 293.28L 286 242.48L 168 189.62L 50 132.74" fill="#007AFF" fill-opacity="0.30196078431372547" stroke="none"/>
     <path d="M 50 122.88L 168 182.34L 286 238.35L 404 293.72L 522 330.34L 640 354.05L 758 369.45L 876 376.98L 876 376.98L 758 369.45L 640 354.05L 522 330.34L 404 293.72L 286 238.35L 168 182.34L 50 122.88" fill="#FF3B30" fill-opacity="0.30196078431372547" stroke="none"/>
-    <path d="M 50 135.4L 168 198.33L 286 255.33L 404 307.35L 522 347.24L 640 368.35L 758 380.65L 876 387.81" fill="none" stroke-width="4" stroke="#28CD41" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 50 121.92L 168 180.98L 286 232.72L 404 286.2L 522 322.74L 640 356.48L 758 369.18L 876 382.5L 994 387.84L 1112 389.2L 1230 391.1" fill="none" stroke-width="4" stroke="#FFCC00" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 50 130.63L 168 189.73L 286 241.45L 404 290.49L 522 336.42L 640 361.02L 758 377.63L 876 387.17L 994 395.38L 1112 398.33L 1230 394.47" fill="none" stroke-width="4" stroke="#28CD41" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 50 131.25L 168 187.56L 286 239.09L 404 289.84L 522 328.88L 640 354.18L 758 373.9L 876 386.91L 994 393.84L 1112 393.2L 1230 389.02" fill="none" stroke-width="4" stroke="#007AFF" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 50 122.88L 168 182.34L 286 238.35L 404 293.72L 522 330.34L 640 354.05L 758 369.45L 876 376.98" fill="none" stroke-width="4" stroke="#FF3B30" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 50 135.4L 168 198.33L 286 255.33L 404 307.35L 522 347.24L 640 368.35L 758 380.65L 876 387.81" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 50 121.92L 168 180.98L 286 232.72L 404 286.2L 522 322.74L 640 356.48L 758 369.18L 876 382.5L 994 387.84L 1112 389.2L 1230 391.1" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 50 130.63L 168 189.73L 286 241.45L 404 290.49L 522 336.42L 640 361.02L 758 377.63L 876 387.17L 994 395.38L 1112 398.33L 1230 394.47" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 50 131.25L 168 187.56L 286 239.09L 404 289.84L 522 328.88L 640 354.18L 758 373.9L 876 386.91L 994 393.84L 1112 393.2L 1230 389.02" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 50 122.88L 168 182.34L 286 238.35L 404 293.72L 522 330.34L 640 354.05L 758 369.45L 876 376.98" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-  <path d="M 74 33 L 74 105 L 471 105 L 471 33 z" fill="#FFFFFF" fill-opacity="0.7019607843137254" stroke-width="0.5" stroke="#000000" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 74 33 L 74 122 L 529 122 L 529 33 z" fill="#FFFFFF" fill-opacity="0.7019607843137254" stroke-width="0.5" stroke="#000000" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 88 52 L 108 52" fill="none" stroke-width="4" stroke="#FF3B30" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 88 52 L 108 52" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
   <text x="119" y="56.17" font-family="Menlo" font-size="12" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">Go∶ Post Chat Event and Receive Poll Results</text>
@@ -64,6 +67,9 @@
   <text x="119" y="73.17" font-family="Menlo" font-size="12" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">Scala∶ Post Chat Event and Receive Poll Results</text>
   <path d="M 88 86 L 108 86" fill="none" stroke-width="4" stroke="#28CD41" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 88 86 L 108 86" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="119" y="90.17" font-family="Menlo" font-size="12" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">Swift∶ Post Chat Event and Receive Poll Results</text>
+  <text x="119" y="90.17" font-family="Menlo" font-size="12" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">Scala-GraalVM∶ Post Chat Event and Receive Poll Results</text>
+  <path d="M 88 103 L 108 103" fill="none" stroke-width="4" stroke="#FFCC00" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 88 103 L 108 103" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="0.30196" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="119" y="107.17" font-family="Menlo" font-size="12" font-weight="normal" font-style="normal" fill="#000000" fill-opacity="1">Swift∶ Post Chat Event and Receive Poll Results</text>
   <path d="M 50 9 L 50 441 L 1230 441 L 1230 9 z" fill="none" stroke-width="0.5" stroke="#000000" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
